@@ -25,3 +25,12 @@ Should these images looks great on retina, default `yes`
 ### Count
 
 How many images you want, default `1`
+
+## Run Locally
+
+```bash
+$ git clone git@github.com:WeiGrand/personal-image-placeholder-creator.git
+$ cd personal-image-placeholder-creator
+$ npm i
+$ npm start
+```
